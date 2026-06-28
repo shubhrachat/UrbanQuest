@@ -1,0 +1,9 @@
+node_modules
+.next
+.env*.local
+.DS_Store
+*.pem
+node_modules/
+.next/
+.env.local
+urbanquest-500304-7ddf00724110.json
